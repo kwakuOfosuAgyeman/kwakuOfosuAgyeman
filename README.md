@@ -35,3 +35,9 @@ currently learning: ["Laravel", "GoLang", "C++"]
 <img src="https://user-images.githubusercontent.com/112822461/210770492-8cf63f57-e43e-4072-b34d-8b0170c15e74.png" alt="git" width="45" height="45">
 <img src="https://user-images.githubusercontent.com/112822461/210770632-ffea8722-d0f6-444f-b296-cc357d2b2286.png" alt="laravel" width="45" height="45">
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwakuOfosuAgyeman&show_icons=true&locale=en&layout=compact" alt="kwakuOfosuAgyeman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kwakuOfosuAgyeman&show_icons=true&locale=en" alt="kwakuOfosuAgyeman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kwakuOfosuAgyeman&" alt="kwakuOfosuAgyeman" /></p>
