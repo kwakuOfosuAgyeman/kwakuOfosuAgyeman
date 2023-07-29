@@ -18,7 +18,7 @@ fields_of_Interest: [
   "Data Science",
 ]
 
-currently learning: ["Laravel", "GoLang", "C++"]
+currently learning: ["GoLang", "C++"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
