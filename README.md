@@ -5,7 +5,7 @@
 ```yaml
 name: Kwaku Ofosu-Agyeman
 located_in: Accra, Ghana,
-current_job: Junior Web Developer
+current_job: Full Stack Developer
 
 education: [
   "Bachelor's in Computer Science from Ashesi University"
