@@ -13,12 +13,11 @@ education: [
 
 company: Really Great Tech
 fields_of_Interest: [
-  "Web Development",
+  "Software Development",
   "Game Development",
   "Data Science",
 ]
 
-currently learning: ["GoLang", "C++"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
