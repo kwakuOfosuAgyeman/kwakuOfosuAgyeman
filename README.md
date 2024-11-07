@@ -24,8 +24,8 @@ fields_of_Interest: [
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://user-images.githubusercontent.com/112822461/210769015-274aa1f6-92f3-4a36-aa6b-a66857446441.png" alt="c++" width="45" height="45">
-<img src="https://user-images.githubusercontent.com/112822461/210769600-8568cae8-4c47-46dc-84e9-5e12ee85c637.png" alt="go" width="45" height="45">
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*ChiWVYhwSZO3lzKEduFgrA.png" alt="fastapi" width="85" height="45">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" alt="python" width="45" height="45">
 <img src="https://user-images.githubusercontent.com/112822461/210769768-90dfb1d3-7760-4a40-ac38-a2775007d7ca.png" alt="laravel" width="45" height="45">
 <img src="https://user-images.githubusercontent.com/112822461/210770112-14c5402c-68fd-4338-a203-4e3c870a41a4.png" alt="react" width="45" height="45">
 <img src="https://user-images.githubusercontent.com/112822461/210770202-a67f7073-2388-4dd1-97e3-0cee267e9ec4.png" alt="html" width="45" height="45">
