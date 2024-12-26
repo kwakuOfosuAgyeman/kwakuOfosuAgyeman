@@ -11,7 +11,7 @@ education: [
   "Bachelor's in Computer Science from Ashesi University"
 ]
 
-company: Really Great Tech
+
 fields_of_Interest: [
   "Software Development",
   "Game Development",
